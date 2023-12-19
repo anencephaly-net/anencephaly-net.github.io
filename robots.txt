@@ -1,0 +1,4 @@
+# /robots.txt file for http://anencephaly.net/
+
+User-agent: *
+Disallow:
